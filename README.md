@@ -3,6 +3,14 @@
 <!--
 **Patrick33uru/Patrick33uru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+¡Hola! Mi nombre es Patrick y actualmente me desempeño como Analista de Datos en el Departamento de Operaciones, enfocado en el área de calidad (QTK) en Pedidosya (DeliveryHero)
+
+Soy apasionado por los datos y por lo que se puede lograr con ellos. Disfruto tanto de la lógica detrás de los análisis como de la capacidad de presentar el trabajo arduo de una manera sencilla, para que el mensaje sea claro y fácil de comprender para las personas.
+
+Actualmente, estoy cursando la carrera de HoderHouse en Data Science, donde continúo ampliando mis conocimientos y habilidades.
+
+Cuento con experiencia en Data Analytics, trabajando con herramientas como BigQuery y Looker Studio desde hace un año.
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
